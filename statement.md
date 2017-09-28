@@ -1,3 +1,3 @@
-```groovy
-System.out.println('plop');
+```groovy runnable
+println('plop');
 ```
